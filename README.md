@@ -12,13 +12,13 @@
     <img src="./public/images/punto-2.png>" alt="Punto-2"> 
 
 <h2>Punto 3: Diseño con CSS</h2>
-    <img src=":/publoc/images/punto-3.png" alt="punto-4">
-    
+    <img src="./public/images/punto-3.png" alt="punto-4">
+
 <h2>Punto 4: Titulos</h2>
     <img src="./public/images/punto-4.png>" alt="Punto-4">
 
 <h2>Punto 5: Parrafo</h2>
-    <img src="./public/images/punto-5.png>" alt="Punto-5">
+    <img src="./public/images/punto-5.jpg>" alt="Punto-5">
 
 <h2>Punto 6: Titulos</h2>
 
